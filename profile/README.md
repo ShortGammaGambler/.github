@@ -1,8 +1,8 @@
-# ⚡ QuantumEdge Alpha | okcwade1-lab
+# ⚡ QuantumEdge Alpha | ShortGammaGambler
 
 > Building at the intersection of derivatives markets and machine intelligence.
 
-![Profile Views](https://komarev.com/ghpvc/?username=okcwade1-lab&color=blueviolet&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=ShortGammaGambler&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ---
 
@@ -25,20 +25,20 @@
 
 ## 📁 Projects
 
-### 🔵 [TradingPlatform](https://github.com/okcwade1-lab/TradingPlatform)
+### 🔵 [TradingPlatform](https://github.com/ShortGammaGambler/TradingPlatform)
 Core trading infrastructure — data pipelines, signal generation, execution logic.
 
-### 🟣 [QuantumEdgeAlpha](https://github.com/okcwade1-lab/QuantumEdgeAlpha)
+### 🟣 [QuantumEdgeAlpha](https://github.com/ShortGammaGambler/QuantumEdgeAlpha)
 Gamma exposure modeling, vanna/charm analysis, and regime-aware options strategies on SPX · XSP · /ES · /MES.
 
-### 🟠 [Upwork-Scout](https://github.com/okcwade1-lab/Upwork-Scout)
+### 🟠 [Upwork-Scout](https://github.com/ShortGammaGambler/Upwork-Scout)
 TypeScript intelligent automation for sourcing and tracking opportunities.
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=okcwade1-lab&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=okcwade1-lab&layout=compact&theme=dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShortGammaGambler&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShortGammaGambler&layout=compact&theme=dark&hide_border=true)
 
 ---
 
